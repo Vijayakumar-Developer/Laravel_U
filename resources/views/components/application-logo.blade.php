@@ -1,0 +1,1 @@
+<img src="{{ asset('logo/ezhil.png') }}" width="100px">
